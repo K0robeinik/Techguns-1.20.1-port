@@ -1,0 +1,12 @@
+{
+    "required": true,
+    "minVersion": "0.8",
+    "package": "techguns2.mixins",
+    "compatibilityLevel": "JAVA_17",
+    "refmap": "techguns2.mixins.refmap.json",
+    "mixins": [
+    ],
+    "injectors": {
+        "defaultRequire": 1
+    }
+}

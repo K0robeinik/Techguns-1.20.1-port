@@ -1,0 +1,32 @@
+{
+    "machine.ammo_press.work1": {
+        "category": "block",
+        "sounds": [
+            "techguns2:machines/ammo_press/work1a",
+            "techguns2:machines/ammo_press/work1b",
+            "techguns2:machines/ammo_press/work1c"
+        ]
+    },
+    "machine.ammo_press.work2": {
+        "category": "block",
+        "sounds": [
+            "techguns2:machines/ammo_press/work2a",
+            "techguns2:machines/ammo_press/work2b",
+            "techguns2:machines/ammo_press/work2c"
+        ]
+    },
+    "gun.hand_cannon.fire": {
+        "category": "player",
+        "sounds": [
+            "techguns2:guns/hand_cannon/shota",
+            "techguns2:guns/hand_cannon/shotb",
+            "techguns2:guns/hand_cannon/shotc"
+        ]
+    },
+    "gun.hand_cannon.reload": {
+        "category": "player",
+        "sounds": [
+            "techguns2:guns/hand_cannon/reload"
+        ]
+    }
+}

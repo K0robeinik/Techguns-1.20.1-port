@@ -1,6 +1,0 @@
-newmtl tex
-Kd 1.00 1.00 1.00
-map_Kd techguns:blocks/reactionchamber
-newmtl texglass
-Kd 1.00 1.00 1.00
-map_Kd techguns:blocks/reactionchamberglass
