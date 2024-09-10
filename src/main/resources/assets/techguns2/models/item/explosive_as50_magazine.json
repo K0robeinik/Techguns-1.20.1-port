@@ -1,0 +1,6 @@
+{
+    "parent": "minecraft:item/generated",
+    "textures": {
+      "layer0": "techguns2:item/as50magazine_explosive"
+    }
+  }

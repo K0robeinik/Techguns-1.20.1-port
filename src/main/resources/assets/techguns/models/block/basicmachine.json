@@ -1,6 +1,0 @@
-{
-	"parent": "block/block",
-	"textures": {
-        "particle": "techguns:blocks/paintmachine_side"
-    }
-}
